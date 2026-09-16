@@ -1,6 +1,6 @@
 list = []
 max = -1
-for i in range (0,5):
+for i in range (0,10):
     a = int(input("Enter integer : "))
     list.append(a)
 min = list[0]
