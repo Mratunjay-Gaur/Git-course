@@ -1,0 +1,35 @@
+Here is a brief summary of essential Git and GitHub commands covered in the course:
+
+git init: Initializes a new local Git repository in your current directory (1:05:43).
+
+git config: Sets configuration values for your user name, email, or repository settings (29:56).
+
+git status: Shows the current state of your working directory and staging area (43:06).
+
+git add: Adds file changes to the staging area to prepare them for a commit (40:08).
+
+git commit -m "message": Records the changes in the staging area to the repository history (42:11).
+
+git log: Displays the commit history for the current branch (1:18:17).
+
+git branch: Lists, creates, or deletes local branches (1:15:21).
+
+**git switch **: Switches your current working branch to the specified branch (1:17:33).
+
+**git checkout -b **: Creates a new branch and immediately switches to it (2:13:48).
+
+git merge: Combines changes from a specified branch into your current branch (1:32:02).
+
+git diff: Shows the differences between files, commits, or branches (1:50:33).
+
+git stash: Temporarily saves uncommitted changes to a separate storage area (1:53:53).
+
+git tag: Creates a permanent label for a specific commit in your history (1:58:03).
+
+git rebase: Reapplies commits on top of another base commit to maintain a linear history (2:12:32).
+
+git reflog: Displays a log of where your HEAD and branch references have been, useful for recovery (2:18:24).
+
+git push: Uploads local commits to a remote repository on GitHub (2:42:06).
+
+git clone: Creates a local copy of an existing remote repository (2:48:38).
