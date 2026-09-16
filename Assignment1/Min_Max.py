@@ -14,3 +14,4 @@ for i in range (1,10):
 
 print("Max : ",max)
 print("Min : ",min)
+print("Min : ",min)
